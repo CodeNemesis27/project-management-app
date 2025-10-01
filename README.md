@@ -1,4 +1,4 @@
-# FilamentPHP Project Management App
+# Project Management App
 
 A simple Project Management App using Laravel FilamentPHP v4 package.
 
