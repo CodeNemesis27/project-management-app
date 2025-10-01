@@ -2,7 +2,9 @@
 
 A simple Project Management App using Laravel FilamentPHP v4 package.
 
-## Featured Screenshots (See screenshots folder for all screenshots)
+## Featured Screenshots
+
+(See screenshots folder for all screenshots)
 
 ![Login Page](https://github.com/CodeNemesis27/project-management-app/blob/main/screenshots/Login%20page.png)
 
